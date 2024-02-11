@@ -1,0 +1,124 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2024-02-10 Review": "http://www.sec-wiki.com/?2024-02-10"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "IBM i Access Client Solutions / Remote Credential Theft": "https://cxsecurity.com/issue/WLB-2024020045",
+        "Maythux CMS BackDoor & SQL Vulnerability": "https://cxsecurity.com/issue/WLB-2024020044",
+        "Online Course Registration System - SQL Injection in User Authentication": "https://cxsecurity.com/issue/WLB-2024020043",
+        "IBM i Access Client Solutions Remote Credential Theft": "https://cxsecurity.com/issue/WLB-2024020042",
+        "Advanced Page Visit Counter 1.0 Cross Site Scripting": "https://cxsecurity.com/issue/WLB-2024020041",
+        "SCHLIX v2.2.8-1 Regular Expression Denial of Service": "https://cxsecurity.com/issue/WLB-2024020040"
+    },
+    "Hacking Dream": {
+        "Exploiting AI using Model Stealing or Data Extraction Attacks": "https://www.hackingdream.net/2024/02/exploiting-ai-using-model-stealing-data-extraction-attacks.html",
+        "Exploiting AI Using Membership Inference Attacks": "https://www.hackingdream.net/2024/02/exploiting-ai-using-membership-inference -attacks.html",
+        "Exploiting Model Inversion Attacks on AI Artificial Intelligence": "https://www.hackingdream.net/2024/02/exploiting-model-inversion-attacks-on-ai-artificial-.html",
+        "Safeguarding AI Models Against Data Poisoning Attacks: Strategies and Solutions": "https://www.hackingdream.net/2024/02/safeguarding-ai-models-against-data-poiso.html",
+        "Starting Your AI Journey? Here's the Roadmap You Need": "https://www.hackingdream.net/2024/02/starting-your-ai-journey-heres-roadmap-you-need.html"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for CVE-2024-22024 exploit": "https://sploitus.com/exploit?id=4A70A7E5-F9CD-531E-AF58-70E558CA81AC&utm_source=rss&utm_medium=rss",
+        "Exploit for Vulnerability in Ivanti Secure Access Client exploit": "https://sploitus.com/exploit?id=B6A1740C-B8A6-563A-B6D9-0A01A9A99D3D&utm_source=rss&utm_medium=rss"
+    },
+    "Verne in GitHub": {
+        "每天学习一个命令：高级日志查看工具 lnav": "https://einverne.github.io/post/2024/02/the-logfile-navigator-lnav.html"
+    },
+    "InfoSec Write-ups - Medium": {
+        "50+ Cyber Security Analyst Interview Tips, Questions and Answers": "https://infosecwriteups.com/50-cyber-security-analyst-interview-tips-questions-and-answers-6ee7824bf21c?source=rss----7b722bfd1b8d---4"
+    },
+    "Security Boulevard": {
+        "Identification Documents: an Obsolete Fraud Countermeasure": "https://securityboulevard.com/2024/02/identification-documents-an-obsolete-fraud-countermeasure/",
+        "USENIX Security ’23 – Measuring Up To (Reasonable) Consumer Expectations: Providing An Empirical Basis For Holding IoT Manufacturers Legally Responsible": "https://securityboulevard.com/2024/02/usenix-security-23-measuring-up-to-reasonable-consumer-expectations-providing-an-empirical-basis-for-holding-iot-manufacturers-legally-responsible/",
+        "Facebook fake videos": "https://securityboulevard.com/2024/02/facebook-fake-videos/"
+    },
+    "unSafe.sh - 不安全": {
+        "Raspberry Robin malware evolves with early access to Windows exploits": "https://buaq.net/go-221562.html",
+        "How to Address Web Vulnerabilities With Apache APISIX API Gateway": "https://buaq.net/go-221570.html",
+        "999 Stories To Learn About Novel": "https://buaq.net/go-221572.html",
+        "62 Stories To Learn About Pride And Prejudice": "https://buaq.net/go-221573.html",
+        "1000 Stories To Learn About Project Gutenberg": "https://buaq.net/go-221571.html",
+        "Z 世代拥抱实体书": "https://buaq.net/go-221558.html"
+    },
+    "HackerNoon": {
+        "Unveiling The Dragons: The World's First Token Amulets": "https://hackernoon.com/unveiling-the-dragons-the-worlds-first-token-amulets?source=rss",
+        "Google Unveils Its Most Promising Text-to-Video Model Yet: Lumiere": "https://hackernoon.com/google-unveils-its-most-promising-text-to-video-model-yet-lumiere?source=rss",
+        "The Noonification: Will AI Remove Humans From Supply Chain Management? (2/10/2024)": "https://hackernoon.com/2-10-2024-noonification?source=rss",
+        "Will AI Remove Humans From Supply Chain Management?": "https://hackernoon.com/will-ai-remove-humans-from-supply-chain-management?source=rss",
+        "How to Address Web Vulnerabilities With Apache APISIX API Gateway": "https://hackernoon.com/how-to-address-web-vulnerabilities-with-apache-apisix-api-gateway?source=rss",
+        "1000 Stories To Learn About Project Gutenberg": "https://hackernoon.com/1000-stories-to-learn-about-project-gutenberg?source=rss",
+        "999 Stories To Learn About Novel": "https://hackernoon.com/999-stories-to-learn-about-novel?source=rss",
+        "62 Stories To Learn About Pride And Prejudice": "https://hackernoon.com/62-stories-to-learn-about-pride-and-prejudice?source=rss",
+        "Software Engineering for OpenHarmony: Related Work": "https://hackernoon.com/software-engineering-for-openharmony-related-work?source=rss",
+        "Software Engineering for OpenHarmony—A Research Roadmap: Conclusion & References": "https://hackernoon.com/software-engineering-for-openharmonya-research-roadmap-conclusion-and-references?source=rss",
+        "From Passion Project to SaaS: Pivoting ResumeMaker.Online": "https://hackernoon.com/from-passion-project-to-saas-pivoting-resumemakeronline?source=rss",
+        "Cypherpunks Write Code: Wei Dai and B-money — or a Coin Before Bitcoin": "https://hackernoon.com/cypherpunks-write-code-wei-dai-and-b-money-or-a-coin-before-bitcoin?source=rss",
+        "The 9 Powerful Behaviors of Highly Effective Leaders That Sets Them Apart": "https://hackernoon.com/the-9-powerful-behaviors-of-highly-effective-leaders-that-sets-them-apart?source=rss",
+        "The TechBeat: Octopus Network Unveils Omnity, Pioneering a Fully Decentralized Cross-Chain World (2/10/2024)": "https://hackernoon.com/2-10-2024-techbeat?source=rss",
+        "Reform-Minded Prosecutors Were Undermined by Police and Politicians": "https://hackernoon.com/reform-minded-prosecutors-were-undermined-by-police-and-politicians?source=rss",
+        "AI Tech and Its Secret Water Footprint": "https://hackernoon.com/ai-tech-and-its-secret-water-footprint?source=rss",
+        "How to Support the LGBTQ+ Youth in Crisis": "https://hackernoon.com/how-to-support-the-lgbtq-youth-in-crisis?source=rss",
+        "CompTIA Secure Infrastructure Expert: Tips and Tricks on Security+, PenTest+, CySA+ and CASP+": "https://hackernoon.com/comptia-secure-infrastructure-expert-tips-and-tricks-on-security-pentest-cysa-and-casp?source=rss"
+    },
+    "白帽100安全攻防实验室": {
+        "白帽100给大家拜年了~": "https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247514826&idx=1&sn=b6264429eb95a98583989964baf61588&chksm=97634e1ca014c70a3de5a0befd253a3f505a9df255049be7f9de54acf3c37e41f4435dff9538&scene=58&subscene=0#rd"
+    },
+    "吾爱破解论坛": {
+        "【2024春节】解题领红包活动开始喽，解出就送论坛币！": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140061&idx=1&sn=906ccfc32db103d6845d1ec972f32c93&chksm=bd50bf898a27369f35ea0e687b79d3e6a2f301386729b8374353d52d8c80e4b878f89e0ccfdb&scene=58&subscene=0#rd"
+    },
+    "看雪学苑": {
+        "2024新春致谢 | 龙年好运连连，全力以“富”": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542079&idx=1&sn=9674e46d08afbce4ba8dc204874f8854&chksm=b18d6f7586fae66348cf035236995538bbb2f7e9c188198fb85e7c735666c7ba26eb2ff5d908&scene=58&subscene=0#rd",
+        "大年初一，看雪给各位拜年啦！龙行大运，步步高升": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542079&idx=2&sn=292cd9baba80e195255833212d152113&chksm=b18d6f7586fae6638f99d691bbb0f56db56d9f467b59d002f049c91ea9443aca579f51169146&scene=58&subscene=0#rd"
+    },
+    "黑海洋 - WIKI": {
+        "Windows WARP客户端的 Zero Trust 账户状态启用代理模式": "https://blog.upx8.com/4032"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "Z 世代拥抱实体书": "https://www.solidot.org/story?sid=77343",
+        "华为法国办事处被突击搜查": "https://www.solidot.org/story?sid=77342",
+        "Instagram 和 Threads 将停止推荐政治内容": "https://www.solidot.org/story?sid=77341",
+        "科学家找到数据存储和时间的最佳平衡": "https://www.solidot.org/story?sid=77340"
+    },
+    "有价值炮灰": {
+        "寒冬下的安全研究": "https://mp.weixin.qq.com/s?__biz=MzA3MzU1MDQwOA==&mid=2247484780&idx=1&sn=68fca63ffe9ef65212a9cc5730d408a3&chksm=9f0c1a4ba87b935d68f6a9bcd2b3468dcf8ab0859e7c6dfb0ee82916f76cee26b9604716169c&scene=58&subscene=0#rd"
+    },
+    "网安寻路人": {
+        "美国商务部《确保信息和通信技术与服务供应链安全》的规则（2024版更新全文翻译）": "https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247501174&idx=1&sn=c2ca78c4569d39167f92bd3c418f6792&chksm=97e9789ca09ef18a8586bf8de2b2dfc1ad2cc402b7ba84bfffdabe8c83c3b0ca6d4802801811&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "华为、小米 OPPO 春晚「暗战」；传华为将推 Vision 头显；OpenAI 年化收入超 20 亿美元 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653033209&idx=1&sn=b90a956efa6951cec546a6e96433ff90&chksm=7e576f4f4920e659787c33908e8a799ca86ea3c6895f4754b62c6fe4b9cab24978bfd884ccb8&scene=58&subscene=0#rd"
+    },
+    "forecho's Blog": {
+        "2023 年终总结": "https://blog.forecho.com/review-of-2023.html"
+    },
+    "Cat in Chinese": {
+        "Vision Pro 使用体验（Part 1）": "http://chinese.catchen.me/2024/02/vision-pro-review-part-1.html"
+    },
+    "青衣十三楼飞花堂": {
+        "心怀信念，便是最大的祝愿": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247487141&idx=1&sn=dbb5d29081ce981f53c9f6a103adbb0d&chksm=fab2cd9acdc5448c1d4ed7d7b0fd5c90487ac2a4c875aad57f43c157d5367822805c094c145e&scene=58&subscene=0#rd"
+    },
+    "KAIX.IN": {
+        "空间交互": "https://kaix.in/2024/0210-vision-pro/"
+    },
+    "数世咨询": {
+        "岁在甲辰，龙年大吉！": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247508833&idx=1&sn=16629cce89ac165735615d66ce695c81&chksm=c144d1dcf63358caf7c9b3db8bd6901e6884bdf1ac9d7ffd0e0bb39e2d2d9c0d988cbb6bcc0d&scene=58&subscene=0#rd"
+    },
+    "维基萌": {
+        "今天收到了《吹响吧!上低音号》的音乐会门票和特典。这年头用邮寄的形式寄送门票的音乐会已经不多见了。そ...": "https://www.wikimoe.com/post/65c714836f66719ab441014f"
+    },
+    "程沛权 - 养了三只猫": {
+        "macOS 基于 Android Studio 修改模拟器 Hosts": "https://chengpeiquan.com/article/macos-android-studio-emulator-hosts.html"
+    },
+    "Surmon.me": {
+        "谁是众生？": "https://surmon.me/article/264"
+    },
+    "频率": {
+        "千祥云集庆有余 万福骈臻贺新春": "https://pinlyu.com/posts/85/"
+    },
+    "Easton Man's Blog": {
+        "HotChips 2023: Ventana 不寻常的 Veyron V1": "https://blog.eastonman.com/blog/2024/02/hot-chips-2023-ventanas-unconventional-veyron-v1/"
+    },
+    "Shiroha白羽的博客": {
+        "Codeforces Round 912 (Div. 2)": "https://blog.mauve.icu/2024/02/10/acm/codeforces/CodeforcesRound912(Div.%202)/"
+    }
+}
