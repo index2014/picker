@@ -1,0 +1,106 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2024-03-17 Review": "http://www.sec-wiki.com/?2024-03-17"
+    },
+    "unSafe.sh - 不安全": {
+        "“gitgub” malware campaign targets Github users with RisePro info-stealer": "https://buaq.net/go-228640.html"
+    },
+    "Data Breach": {
+        "Threat actors leaked 70,000,000+ records allegedly stolen from AT&T": "https://securityaffairs.com/160627/data-breach/70m-att-records-leaked.html"
+    },
+    "Security Boulevard": {
+        "10 Takeaways from the 2024 Gartner IAM Summit UK": "https://securityboulevard.com/2024/03/10-takeaways-from-the-2024-gartner-iam-summit-uk/",
+        "USENIX Security ’23 – Tanusree Sharma, Zhixuan Zhou, Andrew Miller, Yang Wang – A Mixed-Methods Study Of Security Practices Of Smart Contract Developers": "https://securityboulevard.com/2024/03/usenix-security-23-tanusree-sharma-zhixuan-zhou-andrew-miller-yang-wang-a-mixed-methods-study-of-security-practices-of-smart-contract-developers/",
+        "How to Think Like a Hacker — and Defend Your Data": "https://securityboulevard.com/2024/03/how-to-think-like-a-hacker-and-defend-your-data/"
+    },
+    "InfoSec Write-ups - Medium": {
+        "HTB — Netmon": "https://infosecwriteups.com/htb-netmon-5951e2a46486?source=rss----7b722bfd1b8d---4"
+    },
+    "HackerNoon": {
+        "OperationQueue + Asynchronous Code: Everything You Need to Know": "https://hackernoon.com/operationqueue-asynchronous-code-everything-you-need-to-know?source=rss",
+        "GlobalScope in Kotlin Coroutines: Is It Really Worth the Risk?": "https://hackernoon.com/globalscope-in-kotlin-coroutines-is-it-really-worth-the-risk?source=rss",
+        "Debunking the Go Community's Conventional Wisdom on Internal Directories": "https://hackernoon.com/debunking-the-go-communitys-conventional-wisdom-on-internal-directories?source=rss",
+        "Building Wealth is Simple, in Theory": "https://hackernoon.com/building-wealth-is-simple-in-theory?source=rss",
+        "Finding Your Ideal Workplace: Beyond Salary, What Truly Matters in a Job?": "https://hackernoon.com/finding-your-ideal-workplace-beyond-salary-what-truly-matters-in-a-job?source=rss",
+        "The Noonification: Effective Workarounds for SQL-Style Joins in Elasticsearch (3/17/2024)": "https://hackernoon.com/3-17-2024-noonification?source=rss",
+        "How to Master Authentication and User Flow in Node.js With Knex and Redis": "https://hackernoon.com/how-to-master-authentication-and-user-flow-in-nodejs-with-knex-and-redis?source=rss",
+        "Cypherpunks Write Code: Eric Hughes, Remailer and Author of \"A Cypherpunk's Manifesto\"": "https://hackernoon.com/cypherpunks-write-code-eric-hughes-remailer-and-author-of-a-cypherpunks-manifesto?source=rss",
+        "Casting Between Types Automatically in C#": "https://hackernoon.com/casting-between-types-automatically-in-c?source=rss",
+        "Don't Build an AI Project Without Reading This First": "https://hackernoon.com/dont-build-an-ai-project-without-reading-this-first?source=rss",
+        "How To Find a Sponsor Who Can Advocate For You": "https://hackernoon.com/how-to-find-a-sponsor-who-can-advocate-for-you?source=rss",
+        "How To Build Onboarding For Digital Products": "https://hackernoon.com/how-to-build-onboarding-for-digital-products?source=rss",
+        "The TechBeat: Dencun Upgrade: Ethereum's Leap into the Future of L2 Scalability is Here (3/17/2024)": "https://hackernoon.com/3-17-2024-techbeat?source=rss"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for Out-of-bounds Write in Fortinet Fortiproxy exploit": "https://sploitus.com/exploit?id=9F6C6CE0-C498-5D46-9C59-A95198658D94&utm_source=rss&utm_medium=rss"
+    },
+    "MaskRay": {
+        "C++ exit-time destructors": "https://maskray.me/blog/2024-03-17-c++-exit-time-destructors"
+    },
+    "Happy Hacking!": {
+        "CTF Binary Exploitation – Cyber Apocalypse 2024: Hacker Royale – Death Note": "https://xavibel.com/2024/03/17/ctf-binary-exploitation-cyber-apocalypse-2024-hacker-royale-death-note/",
+        "CTF Binary Exploitation – Cyber Apocalypse 2024: Hacker Royale – Pet Companion": "https://xavibel.com/2024/03/17/ctf-binary-exploitation-cyber-apocalypse-2024-hacker-royale-pet-companion/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "Freenom 关闭域名服务 Cloudflare 托管的域名减少逾五分之一": "https://www.solidot.org/story?sid=77618",
+        "韩国大企业撤离中国": "https://www.solidot.org/story?sid=77617",
+        "详解龙芯 3A6000": "https://www.solidot.org/story?sid=77616"
+    },
+    "程序人生": {
+        "CVE-2021-4034 PwnKit PolKit pkexec 本地提权漏洞": "http://programlife.net/2024/03/17/cve-2021-4034-pwnkit-polkit-pkexec-lpe/"
+    },
+    "Blog | Phodal - A Growth Engineer": {
+        "AutoDev DevIns —— 开源智能体交互语言，构建 AI 驱动的自动编程": "http://www.phodal.com/blog/autodev-devins-the-ai-agent-language/"
+    },
+    "汲道": {
+        "语言对思维的影响": "https://www.jdon.com/72992.html"
+    },
+    "Nicksxs's Blog": {
+        "Java 线程池系列-实战篇": "https://nicksxs.me/2024/03/17/Java-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%B3%BB%E5%88%97-%E5%AE%9E%E6%88%98%E7%AF%87/"
+    },
+    "Usubeni Fantasy": {
+        "周末杂记": "https://ssshooter.com/week-11/"
+    },
+    "张鑫旭-鑫空间-鑫生活": {
+        "今天才知道，Web网页也能阻止息屏了": "https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/"
+    },
+    "胡涂说": {
+        "从神经网络到 Hugging Face": "http://localhost:4000/articles/the-history-of-neural-networks"
+    },
+    "维基萌": {
+        "去吃了青春猪头不会梦见校园回忆联动咖啡": "https://www.wikimoe.com/post/pfz1ib4e",
+        "人活着就是为了樱岛麻衣——青春猪头展之青春猪头不会梦见校园回忆": "https://www.wikimoe.com/post/kjrqxfgr",
+        "此次哆啦A梦剧场版的特典小册子，里面包含了基本介绍，小游戏，和此次道具相关的漫画，非常不错！果然这些...": "https://www.wikimoe.com/post/6mcpbdj0",
+        "今天去看了哆啦A梦最新剧场版《大雄的地球交响乐》。个人感觉近两年的哆啦A梦剧场版做到都挺不错的，但是...": "https://www.wikimoe.com/post/gbtq36za"
+    },
+    "Yiran's Blog": {
+        "Weekly Issue 2024-03-17": "https://zdyxry.github.io/2024/03/17/Weekly-Issue-2024-03-17/"
+    },
+    "Lucien's Blog": {
+        "使用 300 元的显卡推理 Qwen1.5-14B": "https://blog.lucien.ink/archives/546/"
+    },
+    "CHEGVA": {
+        "20个简单实用的Python装饰器": "https://chegva.com/5975.html",
+        "Python高阶函数与装饰器": "https://chegva.com/5974.html"
+    },
+    "XINDOO": {
+        "关于ffmpeg height not divisible by 2的错误": "https://zxs.io/article/1951",
+        "使用Certbot解决https证书自动更新的问题": "https://zxs.io/article/1950",
+        "Spring Cache简明教程": "https://zxs.io/article/1949"
+    },
+    "Bboysoul's Blog": {
+        "我关注的项目这周更新了什么-20240317": "https://www.bboy.app/2024/03/17/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20240317/"
+    },
+    "Java for You": {
+        "字节面试高频百题(二)": "https://java4u.cn/career_up/2325.html"
+    },
+    "游研社": {
+        "315过后，「普通人完蛋一天」的梗又加了很多素材": "https://www.yystv.cn/p/11592"
+    },
+    "Shadow Walker 松烟阁": {
+        "写给2024的自己": "https://www.edony.ink/talk-to-myself-in-2024/"
+    },
+    "Airing 的博客": {
+        "月刊（第25期）：爱具体的人": "https://blog.ursb.me/posts/weekly-25/"
+    }
+}
